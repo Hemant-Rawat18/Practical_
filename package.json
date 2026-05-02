@@ -1,0 +1,17 @@
+{
+  "name": "student-management-api",
+  "version": "1.0.0",
+  "description": "Student CRUD APIs with Node.js, Express, MongoDB, and Mongoose",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
